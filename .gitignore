@@ -1,0 +1,8 @@
+# Ignorar la carpeta .vscode (si no quieres compartir configuraciones)
+.vscode/
+
+# Ignorar archivos de configuración local
+*.local
+
+# Ignorar dependencias de Node.js (si usas JavaScript)
+node_modules/
