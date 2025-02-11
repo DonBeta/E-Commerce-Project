@@ -40,3 +40,5 @@ desde la raiz principal del proyecto
 git status = para ver los archivos tocados
 git add . para guardar todo
 un git commit -m "hacemos uno"
+luego subimos los cambios a GItHub
+git push origin main
