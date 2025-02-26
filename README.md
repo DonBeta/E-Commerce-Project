@@ -42,3 +42,13 @@ git add . para guardar todo
 un git commit -m "hacemos uno"
 luego subimos los cambios a GItHub
 git push origin main
+
+para volver y trabajar en el proyecto
+lo abrir VS luego navegue hasta mi carpetra backend (cd backend)
+una vez ahi introduje el comando PIPENV SHELL
+y active mi entorno virtual, me di cuenta porque comienza con .env
+
+luego navego a la carpeta principal del proyecto y voy actualizarla
+en caso de que no este sincronizado con mi proyecto en github
+y ejecuto el comando git pull origin main,
+esto actualizara mi proyecto aqui en local, en mi editor
